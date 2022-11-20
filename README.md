@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @11suryasoni
 - I'm Currently Working at Azuga Telematics (A Bridgestone Company) as a Software Engineer.
 - 👀 I’m interested in Software Development (Cloud Computing)
-- 🌱 I’m currently learning Java, Linux, Git, Sql, NoSql, etc.
+- 🌱 I’m currently learning Java, Linux, Git, MySql, NoSql-MongoDb, Docker, Kubernetes, Jenkins,etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> suryasonirewa@gmail.com
 
